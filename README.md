@@ -1,3 +1,4 @@
+[![CI](https://github.com/harisyasin/url-shortener/actions/workflows/ci.yml/badge.svg)](https://github.com/harisyasin/url-shortener/actions/workflows/ci.yml)
 # url-shortener
 URL Shortener API
 
